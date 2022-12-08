@@ -1,0 +1,26 @@
+{
+    "25": {
+        "25": "Terus Buka Aplikasi dan Tulis semua Tugas Anda",
+        "50": "Selesaikan Lebih Banyak Tugas dengan Memeriksa halaman Tugas Harian",
+        "75": "Hebat, Anda Dapat Memulai Lebih Awal untuk Tugas dan Menyelesaikannya Saat Anda Punya Waktu",
+        "100": "Anda Efisien dalam Waktu, Anda dapat Menggunakan Waktu Ekstra yang Anda miliki dan Menyelesaikan Lebih Banyak Tugas"
+    },
+    "50": {
+        "25": "Ini adalah Permulaan Tapi Anda Bisa Lebih Baik Coba Buka Web Lebih Konsisten",
+        "50": "Tidak Buruk Masih Ada Lagi yang Harus Dilakukan, Luangkan Waktu Setiap Hari untuk Mengatur dan Lihat Tugas Apa Untuk Hari Ini",
+        "75": "Anda Tahu Bagaimana Mengatur Waktu Yang Anda Butuhkan Adalah Lebih Fokus Untuk Menyelesaikan Tugas",
+        "100": "Anda Lebih Hebat dalam Manajemen Waktu Sekarang Mulai Luangkan Lebih Banyak Waktu untuk Menyelesaikan Tugas Anda"
+    },
+    "75": {
+        "25": "Anda Menyelesaikan Sebagian Besar Tugas Anda Tetapi Tidak Tepat Waktu Anda Harus Lebih Banyak Mengatur dan Melakukan Manajemen Waktu",
+        "50": "Anda Menyelesaikan Sebagian Besar Tugas Anda dan Melakukannya dengan Cukup Baik Pada Waktu Tetap Kelola Manajemen Waktu dan Lakukan Daftar Prioritas",
+        "75": "Anda Menyelesaikan Sebagian Besar Tugas Anda dan Melakukannya dengan Cukup Hebat! Peningkatan Tidak Pernah Menyakitkan",
+        "100": "Sekarang Yang Anda Butuhkan Adalah Menyelesaikan Lebih Banyak Tugas Dan Anda Menuju Jalur Cepat!"
+    },
+    "100": {
+        "25": "Anda Menyelesaikan Banyak Tugas Tidak Tepat Waktu :( Mungkin Anda Bisa Mencoba dan Mengatur Waktu Anda Lakukan Tugas Penting Terlebih Dahulu Dan Jadikan Tepat Waktu!",
+        "50": "Anda Menyelesaikan Banyak Tugas Hanya Tidak Efektif Mungkin Membuat Jadwal dan Memesan Waktu untuk Menyelesaikan Tugas",
+        "75": "Anda Menyelesaikan Banyak Tugas Dan Sebagian Besar Tepat Waktu Ini Bagus Tapi Masih Ada Ruang Untuk Perbaikan :)",
+        "100": "Kamu Luar Biasa!"
+    }
+}
