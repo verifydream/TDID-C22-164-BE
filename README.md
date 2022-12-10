@@ -18,7 +18,7 @@ Capstone Project SIB Kampus merdeka Dicoding Batch 3 - Team ID : C22-164
 --
 1. F251X0546 - TM Veri Agustian
 2. F492Y1031 - Djihan Amartia
-3. FF492X1030 - Dedi Fakhriansyah 
+3. F492X1030 - Dedi Fakhriansyah 
 
 
 Project Resources
